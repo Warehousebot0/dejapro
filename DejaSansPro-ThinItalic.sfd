@@ -5,7 +5,7 @@ FamilyName: DejaPro Thin
 Weight: Thin
 Copyright: Property of Defensecorps.
 UComments: "2023-7-26: Created with FontForge (http://fontforge.org)"
-Version: 20230726
+Version: 1.00
 ItalicAngle: -12
 UnderlinePosition: -237
 UnderlineWidth: 119
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1690353932
-ModificationTime: 1690358669
+ModificationTime: 1690369392
 PfmFamily: 17
 TTFWeight: 200
 TTFWidth: 5
@@ -128,7 +128,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 3376 16 4
+WinInfo: 3280 16 4
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144

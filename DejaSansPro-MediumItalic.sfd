@@ -5,7 +5,7 @@ FamilyName: DejaPro Medium
 Weight: Medium
 Copyright: Property of Defensecorps.
 UComments: "2023-7-26: Created with FontForge (http://fontforge.org)"
-Version: 20230726
+Version: 1.00
 ItalicAngle: -12
 UnderlinePosition: -237
 UnderlineWidth: 119
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1690353932
-ModificationTime: 1690360752
+ModificationTime: 1690369554
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
